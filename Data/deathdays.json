@@ -1,0 +1,14 @@
+ [
+                {"Date": "19-Aug","deaths": 1},{"Date": "20-Aug","deaths": 1},{"Date": "21-Aug","deaths": 1},{"Date": "22-Aug","deaths": 0},
+                {"Date": "23-Aug","deaths": 1},{"Date": "24-Aug","deaths": 1},{"Date": "25-Aug","deaths": 0},{"Date": "26-Aug","deaths": 1},
+                {"Date": "27-Aug","deaths": 1},{"Date": "28-Aug","deaths": 1},{"Date": "29-Aug","deaths": 1},{"Date": "30-Aug","deaths": 8},
+                {"Date": "31-Aug","deaths": 56},{"Date": "1-Sep","deaths": 143},{"Date": "2-Sep","deaths": 116},{"Date": "3-Sep","deaths": 54},
+                {"Date": "4-Sep","deaths": 46},{"Date": "5-Sep","deaths": 36},{"Date": "6-Sep","deaths": 20},{"Date": "7-Sep","deaths": 28},
+                {"Date": "8-Sep","deaths": 12},{"Date": "9-Sep","deaths": 11},{"Date": "10-Sep","deaths": 5},{"Date": "11-Sep","deaths": 5},
+                {"Date": "12-Sep","deaths": 1},{"Date": "13-Sep","deaths": 3},{"Date": "14-Sep","deaths": 0},{"Date": "15-Sep","deaths": 1},
+                {"Date": "16-Sep","deaths": 4},{"Date": "17-Sep","deaths": 2},{"Date": "18-Sep","deaths": 3},{"Date": "19-Sep","deaths": 0},
+                {"Date": "20-Sep","deaths": 0},{"Date": "21-Sep","deaths": 2},{"Date": "22-Sep","deaths": 1},{"Date": "23-Sep","deaths": 1},
+                {"Date": "24-Sep","deaths": 1},{"Date": "25-Sep","deaths": 1},{"Date": "26-Sep","deaths": 1},{"Date": "27-Sep","deaths": 1},
+                {"Date": "28-Sep","deaths": 0},{"Date": "29-Sep","deaths": 0}
+            ]   
+            
